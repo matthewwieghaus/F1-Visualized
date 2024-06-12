@@ -1,1 +1,1 @@
-# Solar-Panel-Installation-Calculator
+# F1-Visualized
